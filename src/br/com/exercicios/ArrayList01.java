@@ -12,7 +12,7 @@ public class ArrayList01 {
         valorProduto.add(20.00);
         valorProduto.add(100.00);
 
-        System.out.println("Os valores dos produtos, respectivamente, são:");
+        System.out.println("Os valores dos produtos, respectivamente, são: ");
 
         for (Double valor : valorProduto) {
             System.out.println(valor);
